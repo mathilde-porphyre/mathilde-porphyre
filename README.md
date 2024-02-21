@@ -1,7 +1,12 @@
 ### Hello 👋
-🌱 I’m currently learning with Becode !
+🌱 I’m currently learning with [Becode](https://becode.org/fr/) !
+
+
 
 <!--
+
+$\text{\color{#c1a58c}{My Name is Mathilde}}$
+
 **mathilde-porphyre/mathilde-porphyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
