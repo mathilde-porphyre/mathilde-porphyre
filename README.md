@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello 👋
+🌱 I’m currently learning with Becode !
 
 <!--
 **mathilde-porphyre/mathilde-porphyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
